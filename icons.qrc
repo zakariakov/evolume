@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/audio-volume-highsvg</file>
+        <file>icons/audio-volume-low.svg</file>
+        <file>icons/audio-volume-medium.svg</file>
+        <file>icons/audio-volume-muted.svg</file>
+        <file>icons/mixer-master.png</file>
+    </qresource>
+</RCC>
